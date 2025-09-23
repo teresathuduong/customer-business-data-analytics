@@ -2,7 +2,7 @@
 (create new categories or segments base on a measure and then aggregating another measure based of new segments)
 Helps understand the correlation between two measures
 [Measure] by [Measure]
-ex: total products by sales range, total customers by age 8
+ex: total products by sales range, total customers by age 
 Use CASE WHEN Statement */
 
 -- Task: Segment products into cost ranges and count how many products fall into each segment
